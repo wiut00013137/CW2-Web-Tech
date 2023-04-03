@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "_id": 1,
+            "name": "molly",
+            "email": "molly@molly.molly",
+            "username": "molly",
+            "password": "$2a$10$JzNpDwctftMxITLutlL.vuiJlWGQ2hMRbYNnP6gyTi.iQpU/j9uFa"
+        },
+        {
+            "_id": 2,
+            "name": "John Doe",
+            "email": "johndoe@gmail.com",
+            "username": "john",
+            "password": "$2a$10$L0MQu1iXnvd8SkYy5.5YruOiJhtgzt4aTKvIgI.lOBOWI.x2N36ES"
+        },
+        {
+            "_id": 3,
+            "name": "John Doe",
+            "email": "johndoe@gmail.com",
+            "username": "johndoe",
+            "password": "$2a$10$dqScPag7i9jECUrX9OyBd.xV.cu7ek81UvIiIA8Bz1ENLMvDmBlbm"
+        }
+    ],
+    "lastInsertedId": 3
+}

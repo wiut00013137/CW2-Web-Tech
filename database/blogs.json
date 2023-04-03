@@ -1,0 +1,23 @@
+{
+    "blogs": [
+        {
+            "_id": 4,
+            "title": "It’s Time to Destroy the Myths Men Love — For Good",
+            "author": "Kate Cassidy",
+            "body": "As a feminist writer and content creator, I am besieged with an array of arguments from men about why women should stop speaking out on the ways in which we continue to be oppressed and brutalized. They’re all as laughable as they are enraging, to be sure. But before I begin a careful and pointed dismantling of the hypocrisy, hatred and revisionist history they pedal, I feel compelled to set the stage for why I think doing this work is of the utmost importance in the modern American context."
+        },
+        {
+            "_id": 5,
+            "title": "Stop using Exceptions in Java",
+            "author": "Aleksei Novikov",
+            "body": "All of us know that GOTO was deprecated and is considered absolute evil. Moreover, any jumping instruction is bad because it breaks the logical sequential flow of your code. Jumping by labels breaks our brain and makes it hard to follow logic because we should keep track of the current state of any variable and context."
+        },
+        {
+            "_id": 6,
+            "title": "Use Git like a senior engineer",
+            "author": "Jacob Bennett  Jacob Bennett  in  Level Up Coding",
+            "body": "I’ve used these features of Git for years across teams and projects. I’m still developing opinions around some workflows (like to squash or not) but the core tooling is powerful and flexible (and scriptable!).\r\nGoing through Git logs\r\n\r\nGit logs are gross to go through out of the box.\r\ngit log is basic\r\n\r\nUsing git log gives you some information. But it’s extremely high-resolution and not usually what you’re looking for."
+        }
+    ],
+    "lastInsertedId": 7
+}

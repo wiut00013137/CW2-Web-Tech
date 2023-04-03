@@ -13,11 +13,11 @@
             "body": "All of us know that GOTO was deprecated and is considered absolute evil. Moreover, any jumping instruction is bad because it breaks the logical sequential flow of your code. Jumping by labels breaks our brain and makes it hard to follow logic because we should keep track of the current state of any variable and context."
         },
         {
-            "_id": 6,
-            "title": "Use Git like a senior engineer",
-            "author": "Jacob Bennett  Jacob Bennett  in  Level Up Coding",
-            "body": "I’ve used these features of Git for years across teams and projects. I’m still developing opinions around some workflows (like to squash or not) but the core tooling is powerful and flexible (and scriptable!).\r\nGoing through Git logs\r\n\r\nGit logs are gross to go through out of the box.\r\ngit log is basic\r\n\r\nUsing git log gives you some information. But it’s extremely high-resolution and not usually what you’re looking for."
+            "_id": 8,
+            "title": "da",
+            "author": "da",
+            "body": "das"
         }
     ],
-    "lastInsertedId": 7
+    "lastInsertedId": 8
 }
